@@ -36,3 +36,9 @@ Push commits made on your local branch to a remote repository:
 $ git push origin develop
 
 Previously we have connected to remote reposity (add origin)
+
+To delete a branch, for example 'develop33':
+
+$ git push origin :develop33
+
+
