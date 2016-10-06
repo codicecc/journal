@@ -39,7 +39,7 @@ Previously we have connected to remote reposity (add origin)
 
 To delete a branch, for example 'develop33':
 
-`<$ git push origin :develop33>'
+`<$ git push origin :develop33>`
 
 ###Notes 
 [Markdown this file](https://guides.github.com/features/mastering-markdown/)
