@@ -3,7 +3,7 @@
 *This is case study*
 
 
-## Brief HowTo
+## GITHUB Brief HowTo
 
 
 Connect to remote __Reposity__:
