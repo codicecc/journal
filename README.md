@@ -8,7 +8,7 @@
 
 Connect to remote __Reposity__:
 
-`$ git remote add origin https://github.com/codicecc/magazzinodemax.git`
+`$ git remote add origin https://github.com/codicecc/magazzino.git`
 
 
 Create a __Branch__:
