@@ -42,15 +42,15 @@ To __delete a branch__, for example 'develop33':
 `$ git push origin :develop33`
 
 ## Errors Problems
-`fatal: Not a git repository (or any of the parent directories): .git`
+> `fatal: Not a git repository (or any of the parent directories): .git`
 
-> The repository is not initialized yet. Run this command:
+The repository is not initialized yet. Run this command:
 
-> `git init`
+`git init`
 
-`fatal: You are on a branch yet to be born`
+> `fatal: You are on a branch yet to be born`
 
-> Nothing is committed after your `git init`
+Nothing is committed after your `git init`
 
 
 ###Notes
