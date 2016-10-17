@@ -52,6 +52,13 @@ The repository is not initialized yet. Run this command:
 
 Nothing is committed after your `git init`
 
+> `error: The requested URL returned error: 403 Forbidden while accessing https://github.com/ ... git/info/refs`
+
+You need to add your GitHub username to the github.com portion of the URL.
+To do this, type the following command, replacing the values in red with your own account information:
+`git remote set-url origin "https://github-username@github.com/github-username/github-repository-name.git"`
+
+The .git/config will changed.
 
 ###Notes
 About formatting the text:
