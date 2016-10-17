@@ -3,6 +3,20 @@
 *This is case study*
 
 
+## First time Fit Setup
+
+You need your __Identity__, your __Editor__.
+
+Set your __Identity__:
+`
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+`
+Set your __Editor__:
+
+`$ git config --global core.editor vim`
+
+
 ## GITHUB Brief HowTo
 
 
