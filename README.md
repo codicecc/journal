@@ -88,7 +88,9 @@ To do this, type the following command, replacing the values in red with your ow
 The .git/config will changed.
 
 __Dealing with non-fast-forward errors__
+
 See here
+
 [Dealing with non-fast-forward errors](https://help.github.com/articles/dealing-with-non-fast-forward-errors/)
 
 
