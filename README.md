@@ -1,6 +1,6 @@
 # journal
 
-*This is case study*
+*This is only case study*
 
 
 ## First time Fit Setup
