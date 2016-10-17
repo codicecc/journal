@@ -42,15 +42,25 @@ To __delete a branch__, for example 'develop33':
 `$ git push origin :develop33`
 
 ## Errors Problems
+
+
+__Not a git repository__
+
 > `fatal: Not a git repository (or any of the parent directories): .git`
 
 The repository is not initialized yet. Run this command:
 
 `git init`
 
+
+__You are on a branch yet to be born__
+
 > `fatal: You are on a branch yet to be born`
 
 Nothing is committed after your `git init`
+
+
+__The requestes URL returned error: 403__
 
 > `error: The requested URL returned error: 403 Forbidden while accessing https://github.com/ ... git/info/refs`
 
@@ -59,6 +69,8 @@ To do this, type the following command, replacing the values in red with your ow
 `git remote set-url origin "https://github-username@github.com/github-username/github-repository-name.git"`
 
 The .git/config will changed.
+
+
 
 ###Notes
 About formatting the text:
